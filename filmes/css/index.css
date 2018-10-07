@@ -1,0 +1,29 @@
+body{
+  background-color: #000000;
+}
+.contain{
+  border: 2px solid gray;
+  width: 960px;
+  background-color: #ffffff;
+  margin: 0px 15px 40px 40px;
+  border-radius: 10px;
+  position: relative;
+  box-sizing: border-box;
+  float: left;
+}
+#titulo{
+    padding: 15px 0px 0px 15px;
+  font-size: 20px;
+}
+#img{
+  margin: 10px 0px 0px 10px;
+  display: inline-block;
+  float: left;
+  left: 5px;
+}
+#txt{
+  margin: 0px 0px 0px 10px;
+  display: inline-block;
+  float: left;
+  right: 5px;
+}

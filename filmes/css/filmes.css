@@ -1,0 +1,28 @@
+body{
+  background-color: #000000;
+}
+.contain{
+  width: 960px;
+  background-color: #ffffff;
+  margin: 0px 15px 40px 40px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+#titulo{
+    font-size: 20px;
+}
+#img{
+  margin: 10px 0px 10px 10px;
+  display: inline-block;
+}
+#txt{
+  margin: 10px 0px 10px 10px;
+  display: inline-block;
+}
+#video{
+  padding: 35px 0px 0px 25px;
+  margin: auto;
+}
+#botao{
+  padding: 35px 0px 35px 20px
+}
